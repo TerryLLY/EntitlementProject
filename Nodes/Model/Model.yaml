@@ -4,3 +4,6 @@ Children:
 - Name: 变量1
   Type: BaseDataVariableType
   DataType: Int32
+- Name: 变量2
+  Type: BaseDataVariableType
+  DataType: Int32
