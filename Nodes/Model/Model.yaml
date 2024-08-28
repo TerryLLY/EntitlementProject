@@ -21,3 +21,5 @@ Children:
     - Name: High
       Type: BaseDataVariableType
       DataType: Double
+- Name: Oggetto1
+  Type: BaseObjectType

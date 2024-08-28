@@ -322,4 +322,17 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 240.0
+  - Name: LayoutOrizzontale1
+    Type: RowLayout
+    Children:
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 50.0
+    - Name: Height
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 50.0
 - File: Screens/Screens.yaml
