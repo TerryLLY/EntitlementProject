@@ -7,3 +7,17 @@ Children:
 - Name: 变量2
   Type: BaseDataVariableType
   DataType: Int32
+- Name: VariableAnalogique1
+  Type: AnalogItemType
+  DataType: Float
+  Children:
+  - Name: EURange
+    Type: RangeType
+    DataType: Range
+    Children:
+    - Name: Low
+      Type: BaseDataVariableType
+      DataType: Double
+    - Name: High
+      Type: BaseDataVariableType
+      DataType: Double
